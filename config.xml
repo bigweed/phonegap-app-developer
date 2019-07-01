@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.adobe.phonegap.app" version="1.8.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>PhoneGap</name>
+<widget id="com.aeria.logbook.app" version="1.8.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Aeria Log Book</name>
     <description>
-        The PhoneGap Developer app is a testing utility for web developers and designers using the PhoneGap framework. After installing this app on your device you will be able to connect it to the PhoneGap desktop app to instantly view and test your work
+     Aeria Log Book es una app para registrar vuelos, mantenimientos, incidentes.. y de esta manera tener un control para operadores y pilotos de Drones. Esta App se ha desarrollado para facilitar el registro de datos que obliga AESA en su normativa.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="email@app.pro" href="https://app.pro">
         Adobe PhoneGap Team
     </author>
     <hook src="resources/script/before-test-runner.js" type="before_prepare" />
